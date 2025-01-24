@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm lyric</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lanxingc2" alt="lanxingc2" /></a> </p>
-
 - 📝 I regularly write articles on [lanxiangc2.cn](lanxiangc2.cn)
 
 - 📫 How to reach me **lanxiangc2@gmail.com**
